@@ -6,7 +6,7 @@ import com.teachers.Teacher;
 public class Main {
     public static void main(String[] args) {
         Student student = new Student();
-        Student student1 = new Student(7,"GC61");
+        Student student1 = new Student(5,"GC61");
         Student student2 = new Student(5);
 
 
